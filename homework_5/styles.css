@@ -265,3 +265,7 @@ select {
   position: relative;
   left: 42px;
 }
+
+.active {
+  color: #ED348D;
+}
